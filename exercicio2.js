@@ -19,10 +19,10 @@ const nome='Leonardo Cardoso';
 console.log(nome);
 
 //4
-const g=3;
-const f=5;
+const x=3;
+const y=5;
 
-console.log(2*g*3*f);
+console.log(2*x*3*y);
 //5
 const a=3;
 const b=4;
